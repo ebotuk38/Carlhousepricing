@@ -20,3 +20,6 @@ pip install -r requirements.txt
 CI/CD Tips
 git config --global user.name "enter username"
 git config --global user.email "emailadd"
+git add .
+git status
+git commit -m "message"
